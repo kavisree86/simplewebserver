@@ -56,7 +56,8 @@ httpd.serve_forever(
 ```
 
 ## OUTPUT:
-![image](https://github.com/kavisree86/simplewebserver/assets/145759687/c5982c70-ad55-4ad7-8ae7-e2946c56a0e7)
+![image](https://github.com/kavisree86/simplewebserver/assets/145759687/1ec3eb7a-8fdf-4088-badd-a96984f6e095)
+
 
 
 ## RESULT:
